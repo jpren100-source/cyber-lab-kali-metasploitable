@@ -1,0 +1,2 @@
+# Nmap 7.95 scan initiated Thu Sep 25 20:24:03 2025 as: /usr/lib/nmap/nmap --privileged -sV -O -oN cyber-lab-kali-metasploitable/nmap/nmap_scan_results.txt 192.168.56.102 192.168.56.102
+# Nmap done at Thu Sep 25 20:24:06 2025 -- 2 IP addresses (0 hosts up) scanned in 3.29 seconds
